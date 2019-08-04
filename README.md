@@ -6,6 +6,16 @@ A series is very similar to a Numpy array. Unlike Numpy, series can have axis la
 
 A DataFrame is a bunch of Series objects put together to share the same index.
 
+# SF Salaries Exercise
+
+Use Salaries.csv file to get the data.
+
+# Ecommerce Purchase Exercise
+
+Use Ecommerce Purchases.csv file
+
+In this Exercise, we will have some Fake Data about some purchases done through Amazon! Follow the directions to complete the tasks by yourself.
+
 # References
 
 PIERIAN DATA
