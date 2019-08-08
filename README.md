@@ -1,3 +1,7 @@
+# Important Note !
+
+If you are having trouble displaying the code, open "https://nbviewer.jupyter.org/" and paste the code url there and you will be able to see it.
+
 # Pandas Series
 
 A series is very similar to a Numpy array. Unlike Numpy, series can have axis labels, that is it can be indexed by a label instead of just a number location. It can also hold any Python object.
